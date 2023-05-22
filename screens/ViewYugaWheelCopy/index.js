@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     textAlign: "center"
   },
   aRfhSHYS: {
-    height: 626,
+    height: 506,
     width: 360,
     backgroundColor: "#ffffff",
     borderRadius: 10,

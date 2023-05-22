@@ -9,7 +9,7 @@ const Untitled1 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash.jpg")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text></View></ScrollView>
+    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash.jpg")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground></View></ScrollView>
     <View style={styles.SvaKGdqD}></View><View style={styles.SqGlNCYy}></View><View style={styles.mQJdgfAL}></View><View style={styles.DNfiigLI}></View><View style={styles.qMmclCAg}></View><View style={styles.IqKNGUSR}></View><View style={styles.eUtPyign}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text></SafeAreaView>;
 };
 
@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
     textAlign: "center"
   },
   aRfhSHYS: {
-    height: 626,
+    height: 779,
     width: 360,
     backgroundColor: "#ffffff",
     borderRadius: 10,
@@ -230,6 +230,47 @@ const styles = StyleSheet.create({
     position: "absolute",
     top: 235,
     left: 37
+  },
+  TJoTToLk: {
+    width: 100,
+    height: 20,
+    lineHeight: 14,
+    fontSize: 14,
+    borderRadius: 0,
+    position: "absolute",
+    top: 420,
+    left: 11
+  },
+  tppPDgTj: {
+    width: 150,
+    height: 20,
+    lineHeight: 14,
+    fontSize: 16,
+    borderRadius: 0,
+    position: "absolute",
+    top: 20,
+    left: 20,
+    fontWeight: "700",
+    color: "#123051"
+  },
+  wxJPAvyp: {
+    width: 124,
+    height: 20,
+    lineHeight: 14,
+    fontSize: 14,
+    borderRadius: 0,
+    position: "absolute",
+    top: 44,
+    left: 21,
+    color: "#123051",
+    fontWeight: "500"
+  },
+  LfwTPwzL: {
+    width: 20,
+    height: 20,
+    position: "absolute",
+    left: 168,
+    top: 19
   }
 });
 export default Untitled1;
