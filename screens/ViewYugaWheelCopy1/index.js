@@ -10,8 +10,8 @@ const Untitled1 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash 1.png")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground><Switch style={styles.IDwlcLQD} disabled={true}></Switch></View><View style={styles.PLMlilJz}><Text style={styles.bxFKSTmL}>{"Index"}</Text><View style={styles.GafutvhS}><Text style={styles.oNqNwQta}>{"Search..."}</Text><ImageBackground style={styles.UEkzvnCW} source={require("./filter.png")} resizeMode="cover"></ImageBackground></View><View style={styles.gsVOodWV}><ImageBackground style={styles.oAZUHXdW} source={require("./Rectangle 25.png")} resizeMode="cover"></ImageBackground><Text style={styles.iaVHWaFr}>{"Morning"}</Text><Text style={styles.iLeMrbiu}>{"Collapse All"}</Text><View style={styles.qwebYddU}><Text style={styles.pcqWGWEb}>{"6:30am - 7:30am"}</Text></View></View></View></ScrollView>
-    <View style={styles.SvaKGdqD}></View><View style={styles.SqGlNCYy}></View><View style={styles.mQJdgfAL}></View><View style={styles.DNfiigLI}></View><View style={styles.qMmclCAg}></View><View style={styles.IqKNGUSR}></View><View style={styles.eUtPyign}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text><View style={styles.GlnuOmfS}></View><Text style={styles.mKtiXKOp}>{"Exercise"}</Text><View style={styles.IuvTqtDe}></View><Text style={styles.xuMkFJtl}>{"Entertainment"}</Text><Text style={styles.NSrRnptj}>{"Food"}</Text><Text style={styles.uSAdfyji}>{"Faith/Spirituality"}</Text><Text style={styles.CUkPRbAw}>{"Self Care"}</Text><Text style={styles.rnvHPMXv}>{"Volunteering"}</Text><Text style={styles.SOUjzARb}>{"Sleep"}</Text><View style={styles.BiTsdknl}></View><View style={styles.lkMjiGYg}></View><View style={styles.fwMcckRa}></View><View style={styles.cBvKiRab}></View><View style={styles.gwwVoiXI}></View><View style={styles.KQszAvvk}></View><Text style={styles.lDtAEent}>{"Education"}</Text><View style={styles.DaplXlFj}></View><Text style={styles.rseAOHww}>{"Work"}</Text><View style={styles.NkWkWqnw}></View><Text style={styles.aYMiwWpj}>{"Miscellaneous"}</Text><View style={styles.tzJxLOLZ}></View><Text style={styles.EAzeGhAz}>{"Leisure"}</Text><View style={styles.mxPOAKdA}></View><View style={styles.hGTzqxwd}></View><View style={styles.famcuPzz}></View><View style={styles.DMUpNbki}></View><Text style={styles.juJhdkbb}>{"Ayurvedic practices"}</Text></SafeAreaView>;
+    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash 1.png")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground><Switch style={styles.IDwlcLQD} disabled={true}></Switch></View><View style={styles.PLMlilJz}><Text style={styles.bxFKSTmL}>{"Index"}</Text><View style={styles.GafutvhS}><Text style={styles.oNqNwQta}>{"Search..."}</Text><ImageBackground style={styles.UEkzvnCW} source={require("./filter.png")} resizeMode="cover"></ImageBackground></View><View style={styles.gsVOodWV}><ImageBackground style={styles.oAZUHXdW} source={require("./Rectangle 25.png")} resizeMode="cover"></ImageBackground><Text style={styles.iaVHWaFr}>{"Morning"}</Text><Text style={styles.iLeMrbiu}>{"Collapse All"}</Text><View style={styles.qwebYddU}><Text style={styles.pcqWGWEb}>{"6:30am - 7:30am"}</Text></View><View style={styles.XpYHVcab}><View style={styles.gnuHHeQm}><Text style={styles.aaHOlDrK}>{"My largest meal of the day, typically consisting of rice, roasted veggies, and sweet potato with half an avocado and/or egg."}</Text><ImageBackground style={styles.cmHwlPiJ} source={require("./stephen-bellocillo-z133-jVFX2M-unsplash.jpg")} resizeMode="cover"></ImageBackground></View></View></View></View></ScrollView>
+    <View style={styles.SvaKGdqD}></View><View style={styles.SqGlNCYy}></View><View style={styles.mQJdgfAL}></View><View style={styles.DNfiigLI}></View><View style={styles.qMmclCAg}></View><View style={styles.IqKNGUSR}></View><View style={styles.eUtPyign}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text><View style={styles.GlnuOmfS}></View><Text style={styles.mKtiXKOp}>{"Exercise"}</Text><View style={styles.IuvTqtDe}></View><Text style={styles.xuMkFJtl}>{"Entertainment"}</Text><Text style={styles.NSrRnptj}>{"Food"}</Text><Text style={styles.uSAdfyji}>{"Faith/Spirituality"}</Text><Text style={styles.CUkPRbAw}>{"Self Care"}</Text><Text style={styles.rnvHPMXv}>{"Volunteering"}</Text><Text style={styles.SOUjzARb}>{"Sleep"}</Text><View style={styles.BiTsdknl}></View><View style={styles.lkMjiGYg}></View><View style={styles.fwMcckRa}></View><View style={styles.cBvKiRab}></View><View style={styles.gwwVoiXI}></View><View style={styles.KQszAvvk}></View><Text style={styles.lDtAEent}>{"Education"}</Text><View style={styles.DaplXlFj}></View><Text style={styles.rseAOHww}>{"Work"}</Text><View style={styles.NkWkWqnw}></View><Text style={styles.aYMiwWpj}>{"Miscellaneous"}</Text><View style={styles.tzJxLOLZ}></View><Text style={styles.EAzeGhAz}>{"Leisure"}</Text><View style={styles.mxPOAKdA}></View><View style={styles.hGTzqxwd}></View><View style={styles.famcuPzz}></View><View style={styles.DMUpNbki}></View><Text style={styles.juJhdkbb}>{"Ayurvedic practices"}</Text><View style={styles.LrequoOc}></View><Text style={styles.EhsjySFt}>{"7:30am - 8:00am"}</Text><Text style={styles.vASkbGCa}>{"Breakfast"}</Text><View style={styles.NYqEuTYu}><Text style={styles.oVoCTkkU}>{"8:00am - 8:45am"}</Text></View><View style={styles.ylDzijjN}></View><Text style={styles.pEHRoLUN}>{"Ayurvedic practices"}</Text></SafeAreaView>;
 };
 
 const styles = StyleSheet.create({
@@ -687,6 +687,115 @@ const styles = StyleSheet.create({
     position: "absolute",
     top: 780,
     left: 106,
+    fontWeight: "500"
+  },
+  XpYHVcab: {
+    height: 226,
+    width: 330,
+    backgroundColor: "#C4DD81",
+    borderRadius: 5,
+    color: "#777777",
+    position: "absolute",
+    top: 87,
+    left: 5
+  },
+  LrequoOc: {
+    height: 226,
+    width: 11,
+    backgroundColor: "#86BB00",
+    borderRadius: 5,
+    color: "#777777",
+    position: "absolute",
+    left: 15,
+    top: 804
+  },
+  EhsjySFt: {
+    width: 79,
+    height: 16,
+    lineHeight: 14,
+    fontSize: 10,
+    borderRadius: 0,
+    position: "absolute",
+    top: 811,
+    left: 29
+  },
+  vASkbGCa: {
+    width: 116,
+    height: 16,
+    lineHeight: 14,
+    fontSize: 12,
+    borderRadius: 0,
+    position: "absolute",
+    top: 809,
+    left: 106,
+    fontWeight: "500"
+  },
+  gnuHHeQm: {
+    height: 200,
+    width: 318,
+    backgroundColor: "#ffffff",
+    borderRadius: 0,
+    color: "#777777",
+    position: "absolute",
+    left: 11,
+    top: 24
+  },
+  aaHOlDrK: {
+    width: 316,
+    height: 50,
+    lineHeight: 14,
+    fontSize: 12,
+    borderRadius: 0,
+    position: "absolute",
+    left: 4,
+    top: 4
+  },
+  cmHwlPiJ: {
+    width: 317,
+    height: 149,
+    position: "absolute",
+    top: 51,
+    left: 0
+  },
+  NYqEuTYu: {
+    height: 22,
+    width: 330,
+    backgroundColor: "#BBE6E7",
+    borderRadius: 5,
+    color: "#777777",
+    position: "absolute",
+    left: 16,
+    top: 1035
+  },
+  oVoCTkkU: {
+    width: 79,
+    height: 16,
+    lineHeight: 14,
+    fontSize: 10,
+    borderRadius: 0,
+    position: "absolute",
+    top: 4,
+    left: 13
+  },
+  ylDzijjN: {
+    height: 22,
+    width: 11,
+    backgroundColor: "#77CCCD",
+    borderRadius: 5,
+    color: "#777777",
+    position: "absolute",
+    left: 15,
+    top: 1035
+  },
+  pEHRoLUN: {
+    width: 116,
+    height: 16,
+    lineHeight: 14,
+    fontSize: 12,
+    borderRadius: 0,
+    position: "absolute",
+    top: 1038,
+    left: 107,
     fontWeight: "500"
   }
 });
