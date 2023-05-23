@@ -10,7 +10,7 @@ const Untitled1 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash 1.png")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground><Switch style={styles.IDwlcLQD} disabled={true}></Switch></View></ScrollView>
+    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash 1.png")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground><Switch style={styles.IDwlcLQD} disabled={true}></Switch></View><View style={styles.PLMlilJz}><Text style={styles.bxFKSTmL}>{"Index"}</Text><View style={styles.GafutvhS}></View></View></ScrollView>
     <View style={styles.SvaKGdqD}></View><View style={styles.SqGlNCYy}></View><View style={styles.mQJdgfAL}></View><View style={styles.DNfiigLI}></View><View style={styles.qMmclCAg}></View><View style={styles.IqKNGUSR}></View><View style={styles.eUtPyign}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text><View style={styles.GlnuOmfS}></View><Text style={styles.mKtiXKOp}>{"Exercise"}</Text><View style={styles.IuvTqtDe}></View><Text style={styles.xuMkFJtl}>{"Entertainment"}</Text><Text style={styles.NSrRnptj}>{"Food"}</Text><Text style={styles.uSAdfyji}>{"Faith/Spirituality"}</Text><Text style={styles.CUkPRbAw}>{"Self Care"}</Text><Text style={styles.rnvHPMXv}>{"Volunteering"}</Text><Text style={styles.SOUjzARb}>{"Sleep"}</Text><View style={styles.BiTsdknl}></View><View style={styles.lkMjiGYg}></View><View style={styles.fwMcckRa}></View><View style={styles.cBvKiRab}></View><View style={styles.gwwVoiXI}></View><View style={styles.KQszAvvk}></View><Text style={styles.lDtAEent}>{"Education"}</Text><View style={styles.DaplXlFj}></View><Text style={styles.rseAOHww}>{"Work"}</Text><View style={styles.NkWkWqnw}></View><Text style={styles.aYMiwWpj}>{"Miscellaneous"}</Text><View style={styles.tzJxLOLZ}></View><Text style={styles.EAzeGhAz}>{"Leisure"}</Text></SafeAreaView>;
 };
 
@@ -41,13 +41,13 @@ const styles = StyleSheet.create({
     textAlign: "center"
   },
   aRfhSHYS: {
-    height: 779,
+    height: 567,
     width: 360,
     backgroundColor: "#ffffff",
     borderRadius: 10,
     color: "#777777",
     position: "absolute",
-    top: 62,
+    top: 59,
     left: 0,
     borderColor: "#000000"
   },
@@ -521,6 +521,39 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 69,
     top: 414
+  },
+  PLMlilJz: {
+    height: 411,
+    width: 360,
+    backgroundColor: "#F6F7F9",
+    borderRadius: 20,
+    color: "#777777",
+    position: "absolute",
+    top: 598,
+    left: 0
+  },
+  bxFKSTmL: {
+    width: 100,
+    height: 26,
+    lineHeight: 14,
+    fontSize: 14,
+    borderRadius: 0,
+    position: "absolute",
+    left: 129,
+    top: 18,
+    textAlign: "center",
+    fontWeight: "500",
+    color: "#123051"
+  },
+  GafutvhS: {
+    height: 36,
+    width: 320,
+    backgroundColor: "#ffffff",
+    borderRadius: 30,
+    color: "#777777",
+    position: "absolute",
+    top: 47,
+    left: 20
   }
 });
 export default Untitled1;
