@@ -10,7 +10,7 @@ const Untitled1 = () => {
       position: 'relative',
       flex: 1
     }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash 1.png")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground></View></ScrollView>
-    <View style={styles.SvaKGdqD}></View><View style={styles.SqGlNCYy}></View><View style={styles.mQJdgfAL}></View><View style={styles.DNfiigLI}></View><View style={styles.qMmclCAg}></View><View style={styles.IqKNGUSR}></View><View style={styles.eUtPyign}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text><View style={styles.GlnuOmfS}></View><Text style={styles.mKtiXKOp}>{"Exercise"}</Text><View style={styles.IuvTqtDe}></View><Text style={styles.xuMkFJtl}>{"Entertainment"}</Text><Text style={styles.NSrRnptj}>{"Food"}</Text><Text style={styles.uSAdfyji}>{"Faith/Spirituality"}</Text><Text style={styles.CUkPRbAw}>{"Self Care"}</Text><Text style={styles.rnvHPMXv}>Exercise</Text><Text style={styles.SOUjzARb}>{"Sleep"}</Text><View style={styles.BiTsdknl}></View><View style={styles.lkMjiGYg}></View><View style={styles.fwMcckRa}></View><View style={styles.cBvKiRab}></View><View style={styles.gwwVoiXI}></View><View style={styles.KQszAvvk}></View></SafeAreaView>;
+    <View style={styles.SvaKGdqD}></View><View style={styles.SqGlNCYy}></View><View style={styles.mQJdgfAL}></View><View style={styles.DNfiigLI}></View><View style={styles.qMmclCAg}></View><View style={styles.IqKNGUSR}></View><View style={styles.eUtPyign}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text><View style={styles.GlnuOmfS}></View><Text style={styles.mKtiXKOp}>{"Exercise"}</Text><View style={styles.IuvTqtDe}></View><Text style={styles.xuMkFJtl}>{"Entertainment"}</Text><Text style={styles.NSrRnptj}>{"Food"}</Text><Text style={styles.uSAdfyji}>{"Faith/Spirituality"}</Text><Text style={styles.CUkPRbAw}>{"Self Care"}</Text><Text style={styles.rnvHPMXv}>{"Volunteering"}</Text><Text style={styles.SOUjzARb}>{"Sleep"}</Text><View style={styles.BiTsdknl}></View><View style={styles.lkMjiGYg}></View><View style={styles.fwMcckRa}></View><View style={styles.cBvKiRab}></View><View style={styles.gwwVoiXI}></View><View style={styles.KQszAvvk}></View><Text style={styles.lDtAEent}>{"Education"}</Text><View style={styles.DaplXlFj}></View><Text style={styles.rseAOHww}>{"Work"}</Text><View style={styles.NkWkWqnw}></View><Text style={styles.aYMiwWpj}>{"Miscellaneous"}</Text><View style={styles.tzJxLOLZ}></View><Text style={styles.EAzeGhAz}>{"Leisure"}</Text></SafeAreaView>;
 };
 
 const styles = StyleSheet.create({
@@ -347,17 +347,17 @@ const styles = StyleSheet.create({
     left: 32
   },
   rnvHPMXv: {
-    width: 46,
+    width: 68,
     height: 18,
     lineHeight: 14,
     fontSize: 12,
     borderRadius: 0,
     position: "absolute",
-    top: 541,
-    left: 174
+    top: 538,
+    left: 155
   },
   SOUjzARb: {
-    width: 46,
+    width: 36,
     height: 18,
     lineHeight: 14,
     fontSize: 12,
@@ -405,38 +405,114 @@ const styles = StyleSheet.create({
   cBvKiRab: {
     height: 10,
     width: 10,
-    backgroundColor: "#F32A00",
+    backgroundColor: "#AAABAD",
     borderRadius: 90,
     color: "#777777",
     position: "absolute",
-    top: 540,
-    left: 82,
+    top: 541,
+    left: 85,
     borderColor: "#C4DD81",
     borderWidth: 0
   },
   gwwVoiXI: {
     height: 10,
     width: 10,
-    backgroundColor: "#F32A00",
+    backgroundColor: "#E25297",
     borderRadius: 90,
     color: "#777777",
     position: "absolute",
     top: 541,
-    left: 154,
+    left: 139,
     borderColor: "#C4DD81",
     borderWidth: 0
   },
   KQszAvvk: {
     height: 10,
     width: 10,
-    backgroundColor: "#F32A00",
+    backgroundColor: "#29C18C",
     borderRadius: 90,
     color: "#777777",
     position: "absolute",
-    top: 547,
-    left: 240,
+    top: 542,
+    left: 229,
     borderColor: "#C4DD81",
     borderWidth: 0
+  },
+  lDtAEent: {
+    width: 68,
+    height: 18,
+    lineHeight: 14,
+    fontSize: 12,
+    borderRadius: 0,
+    position: "absolute",
+    top: 539,
+    left: 243
+  },
+  DaplXlFj: {
+    height: 10,
+    width: 10,
+    backgroundColor: "#123051",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 567,
+    left: 16,
+    borderColor: "#C4DD81",
+    borderWidth: 0
+  },
+  rseAOHww: {
+    width: 55,
+    height: 18,
+    lineHeight: 14,
+    fontSize: 12,
+    borderRadius: 0,
+    position: "absolute",
+    top: 566,
+    left: 32
+  },
+  NkWkWqnw: {
+    height: 10,
+    width: 10,
+    backgroundColor: "#C9C4B4",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 568,
+    left: 70,
+    borderColor: "#C4DD81",
+    borderWidth: 0
+  },
+  aYMiwWpj: {
+    width: 78,
+    height: 18,
+    lineHeight: 14,
+    fontSize: 12,
+    borderRadius: 0,
+    position: "absolute",
+    top: 566,
+    left: 85
+  },
+  tzJxLOLZ: {
+    height: 10,
+    width: 10,
+    backgroundColor: "#F5CC3B",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 570,
+    left: 166,
+    borderColor: "#C4DD81",
+    borderWidth: 0
+  },
+  EAzeGhAz: {
+    width: 68,
+    height: 18,
+    lineHeight: 14,
+    fontSize: 12,
+    borderRadius: 0,
+    position: "absolute",
+    top: 565,
+    left: 182
   }
 });
 export default Untitled1;
