@@ -10,8 +10,8 @@ const Untitled1 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash 1.png")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground><Switch style={styles.IDwlcLQD} disabled={true}></Switch></View><View style={styles.PLMlilJz}><Text style={styles.bxFKSTmL}>{"Index"}</Text><View style={styles.GafutvhS}><Text style={styles.oNqNwQta}>{"Search..."}</Text><ImageBackground style={styles.UEkzvnCW} source={require("./filter.png")} resizeMode="cover"></ImageBackground></View><View style={styles.gsVOodWV}><ImageBackground style={styles.oAZUHXdW} source={require("./Rectangle 25.png")} resizeMode="cover"></ImageBackground><Text style={styles.iaVHWaFr}>{"Morning"}</Text><Text style={styles.iLeMrbiu}>{"Collapse All"}</Text><View style={styles.qwebYddU}><Text style={styles.pcqWGWEb}>{"6:30am - 7:30am"}</Text></View><View style={styles.XpYHVcab}><View style={styles.gnuHHeQm}><Text style={styles.aaHOlDrK}>{"My largest meal of the day, typically consisting of rice, roasted veggies, and sweet potato with half an avocado and/or egg."}</Text><ImageBackground style={styles.cmHwlPiJ} source={require("./stephen-bellocillo-z133-jVFX2M-unsplash.jpg")} resizeMode="cover"></ImageBackground></View></View></View></View></ScrollView>
-    <View style={styles.SqGlNCYy}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text><View style={styles.GlnuOmfS}></View><Text style={styles.mKtiXKOp}>{"Exercise"}</Text><View style={styles.IuvTqtDe}></View><Text style={styles.xuMkFJtl}>{"Entertainment"}</Text><Text style={styles.NSrRnptj}>{"Food"}</Text><Text style={styles.uSAdfyji}>{"Faith/Spirituality"}</Text><Text style={styles.CUkPRbAw}>{"Self Care"}</Text><Text style={styles.rnvHPMXv}>{"Volunteering"}</Text><Text style={styles.SOUjzARb}>{"Sleep"}</Text><View style={styles.BiTsdknl}></View><View style={styles.lkMjiGYg}></View><View style={styles.fwMcckRa}></View><View style={styles.cBvKiRab}></View><View style={styles.gwwVoiXI}></View><View style={styles.KQszAvvk}></View><Text style={styles.lDtAEent}>{"Education"}</Text><View style={styles.DaplXlFj}></View><Text style={styles.rseAOHww}>{"Work"}</Text><View style={styles.NkWkWqnw}></View><Text style={styles.aYMiwWpj}>{"Miscellaneous"}</Text><View style={styles.tzJxLOLZ}></View><Text style={styles.EAzeGhAz}>{"Leisure"}</Text><View style={styles.mxPOAKdA}></View><View style={styles.hGTzqxwd}></View><View style={styles.famcuPzz}></View><View style={styles.DMUpNbki}></View><Text style={styles.juJhdkbb}>{"Ayurvedic practices"}</Text><View style={styles.LrequoOc}></View><Text style={styles.EhsjySFt}>{"7:30am - 8:00am"}</Text><Text style={styles.vASkbGCa}>{"Breakfast"}</Text><View style={styles.NYqEuTYu}><Text style={styles.oVoCTkkU}>{"8:00am - 8:45am"}</Text></View><View style={styles.ylDzijjN}></View><Text style={styles.pEHRoLUN}>{"Meditation"}</Text><View style={styles.iwJntYfA}><Text style={styles.zBEPVSoo}>{"8:45am - 9:30am"}</Text></View><View style={styles.acvfYZWv}></View><View style={styles.KlthhBxX}></View><Text style={styles.YAnOMQhm}>{"Workout"}</Text><View style={styles.eOkwPuaK}><Text style={styles.tbPfbVkg}>{"9:30am - 10:00am"}</Text></View><View style={styles.AQdYShaa}></View><View style={styles.kOoDtZiP}></View><Text style={styles.efIeFcgW}>{"Centering"}</Text><View style={styles.JmZavVck}><Text style={styles.UtVqdmHj}>{"10:00am - 11:00am"}</Text></View><View style={styles.skVZFzKK}></View><View style={styles.SlJzAufR}></View><Text style={styles.LxmqeUuX}>{"6am"}</Text><Text style={styles.LxvBqOzp}>{"12pm"}</Text></SafeAreaView>;
+    }} style={styles.dqqIDkxK}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash 1.png")} resizeMode="cover"></ImageBackground></View><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground><Switch style={styles.IDwlcLQD} disabled={true}></Switch></View><View style={styles.PLMlilJz}><Text style={styles.bxFKSTmL}>{"Index"}</Text><View style={styles.GafutvhS}><Text style={styles.oNqNwQta}>{"Search..."}</Text><ImageBackground style={styles.UEkzvnCW} source={require("./filter.png")} resizeMode="cover"></ImageBackground></View><View style={styles.gsVOodWV}><ImageBackground style={styles.oAZUHXdW} source={require("./Rectangle 25.png")} resizeMode="cover"></ImageBackground><Text style={styles.iaVHWaFr}>{"Morning"}</Text><Text style={styles.iLeMrbiu}>{"Collapse All"}</Text><View style={styles.qwebYddU}><Text style={styles.pcqWGWEb}>{"6:30am - 7:30am"}</Text></View><View style={styles.XpYHVcab}><View style={styles.gnuHHeQm}><Text style={styles.aaHOlDrK}>{"My largest meal of the day, typically consisting of rice, roasted veggies, and sweet potato with half an avocado and/or egg."}</Text><ImageBackground style={styles.cmHwlPiJ} source={require("./stephen-bellocillo-z133-jVFX2M-unsplash.jpg")} resizeMode="cover"></ImageBackground></View></View></View></View></ScrollView>
+    <View style={styles.SqGlNCYy}></View><Text style={styles.Fvogfrwf}>{"Ayurvedic pr..."}</Text><View style={styles.GlnuOmfS}></View><Text style={styles.mKtiXKOp}>{"Exercise"}</Text><View style={styles.IuvTqtDe}></View><Text style={styles.xuMkFJtl}>{"Entertainment"}</Text><Text style={styles.NSrRnptj}>{"Food"}</Text><Text style={styles.uSAdfyji}>{"Faith/Spirituality"}</Text><Text style={styles.CUkPRbAw}>{"Self Care"}</Text><Text style={styles.rnvHPMXv}>{"Volunteering"}</Text><Text style={styles.SOUjzARb}>{"Sleep"}</Text><View style={styles.BiTsdknl}></View><View style={styles.lkMjiGYg}></View><View style={styles.fwMcckRa}></View><View style={styles.cBvKiRab}></View><View style={styles.gwwVoiXI}></View><View style={styles.KQszAvvk}></View><Text style={styles.lDtAEent}>{"Education"}</Text><View style={styles.DaplXlFj}></View><Text style={styles.rseAOHww}>{"Work"}</Text><View style={styles.NkWkWqnw}></View><Text style={styles.aYMiwWpj}>{"Miscellaneous"}</Text><View style={styles.tzJxLOLZ}></View><Text style={styles.EAzeGhAz}>{"Leisure"}</Text><View style={styles.mxPOAKdA}></View><View style={styles.hGTzqxwd}></View><View style={styles.famcuPzz}></View><View style={styles.DMUpNbki}></View><Text style={styles.juJhdkbb}>{"Ayurvedic practices"}</Text><View style={styles.LrequoOc}></View><Text style={styles.EhsjySFt}>{"7:30am - 8:00am"}</Text><Text style={styles.vASkbGCa}>{"Breakfast"}</Text><View style={styles.NYqEuTYu}><Text style={styles.oVoCTkkU}>{"8:00am - 8:45am"}</Text></View><View style={styles.ylDzijjN}></View><Text style={styles.pEHRoLUN}>{"Meditation"}</Text><View style={styles.iwJntYfA}><Text style={styles.zBEPVSoo}>{"8:45am - 9:30am"}</Text></View><View style={styles.acvfYZWv}></View><View style={styles.KlthhBxX}></View><Text style={styles.YAnOMQhm}>{"Workout"}</Text><View style={styles.eOkwPuaK}><Text style={styles.tbPfbVkg}>{"9:30am - 10:00am"}</Text></View><View style={styles.AQdYShaa}></View><View style={styles.kOoDtZiP}></View><Text style={styles.efIeFcgW}>{"Centering"}</Text><View style={styles.JmZavVck}><Text style={styles.UtVqdmHj}>{"10:00am - 11:00am"}</Text></View><View style={styles.skVZFzKK}></View><View style={styles.SlJzAufR}></View><Text style={styles.LxmqeUuX}>{"6am"}</Text><Text style={styles.LxvBqOzp}>{"12pm"}</Text><Text style={styles.nEEwWnoK}>{"6pm"}</Text><Text style={styles.ECHDVxnb}>{"12am"}</Text><View style={styles.qFNFnHMr}></View><Text style={styles.TfBcPqAW}>{"Breakfast"}</Text><View style={styles.utFUPcDL}></View><View style={styles.UuSHdykn}></View><View style={styles.fTYxbnrI}></View><View style={styles.LiOOkwOG}></View><View style={styles.EPRJDGMr}></View><View style={styles.OreCahQw}></View><View style={styles.LdljVQmh}></View><View style={styles.XVbJPTLq}></View><View style={styles.jomCvGvz}></View><View style={styles.PSUjnCGz}></View><View style={styles.pvTxWjIj}></View><Text style={styles.IqtZjKYK}>Breakfast</Text><Text style={styles.ZiBxOGoW}>Breakfast</Text></SafeAreaView>;
 };
 
 const styles = StyleSheet.create({
@@ -61,12 +61,14 @@ const styles = StyleSheet.create({
   tcZeuqZP: {
     height: 200,
     width: 200,
-    backgroundColor: "#E4E4E4",
+    backgroundColor: "#f0f0f0",
     borderRadius: 90,
     color: "#777777",
     position: "absolute",
     top: 153,
-    left: 80
+    left: 80,
+    borderWidth: 1,
+    borderColor: "#dadada"
   },
   IOGUgKdP: {
     width: 160,
@@ -90,75 +92,15 @@ const styles = StyleSheet.create({
     borderColor: "#C4DD81",
     borderWidth: 2
   },
-  TXwWBpTd: {
-    width: 100,
-    height: 24,
-    lineHeight: 14,
-    fontSize: 12,
-    borderRadius: 0,
-    position: "absolute",
-    top: 118,
-    left: 236
-  },
-  dDYIKmeD: {
-    width: 100,
-    height: 24,
-    lineHeight: 14,
-    fontSize: 12,
-    borderRadius: 0,
-    position: "absolute",
-    top: 165,
-    left: 121
-  },
-  hpetRGxp: {
-    width: 100,
-    height: 24,
-    lineHeight: 14,
-    fontSize: 12,
-    borderRadius: 0,
-    position: "absolute",
-    top: 238,
-    left: 276
-  },
   Fvogfrwf: {
-    width: 100,
-    height: 24,
+    width: 78,
+    height: 17,
     lineHeight: 14,
-    fontSize: 12,
+    fontSize: 11,
     borderRadius: 0,
     position: "absolute",
     top: 325,
     left: 285
-  },
-  cWXOqWvU: {
-    width: 100,
-    height: 24,
-    lineHeight: 14,
-    fontSize: 12,
-    borderRadius: 0,
-    position: "absolute",
-    top: 439,
-    left: 228
-  },
-  oqcNkcuL: {
-    width: 50,
-    height: 24,
-    lineHeight: 14,
-    fontSize: 12,
-    borderRadius: 0,
-    position: "absolute",
-    top: 435,
-    left: 113
-  },
-  WqKgjiJg: {
-    width: 38,
-    height: 24,
-    lineHeight: 14,
-    fontSize: 12,
-    borderRadius: 0,
-    position: "absolute",
-    top: 235,
-    left: 37
   },
   TJoTToLk: {
     width: 100,
@@ -861,13 +803,13 @@ const styles = StyleSheet.create({
   SlJzAufR: {
     height: 20,
     width: 20,
-    backgroundColor: "#86BB00",
+    backgroundColor: "#F5CC3B",
     borderRadius: 90,
     color: "#777777",
     position: "absolute",
-    top: 366,
-    left: 256,
-    borderColor: "#C4DD81",
+    top: 322,
+    left: 260,
+    borderColor: "#FFEDAE",
     borderWidth: 2
   },
   LxmqeUuX: {
@@ -892,6 +834,207 @@ const styles = StyleSheet.create({
     left: 169,
     color: "#717171",
     textAlign: "center"
+  },
+  nEEwWnoK: {
+    width: 30,
+    height: 16,
+    lineHeight: 14,
+    fontSize: 10,
+    borderRadius: 0,
+    position: "absolute",
+    top: 307,
+    left: 45,
+    color: "#717171",
+    textAlign: "right"
+  },
+  ECHDVxnb: {
+    width: 30,
+    height: 16,
+    lineHeight: 14,
+    fontSize: 10,
+    borderRadius: 0,
+    position: "absolute",
+    top: 191,
+    left: 164,
+    color: "#717171",
+    textAlign: "center"
+  },
+  qFNFnHMr: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#86BB00",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 345,
+    left: 251,
+    borderColor: "#C4DD81",
+    borderWidth: 2
+  },
+  dqqIDkxK: {
+    borderColor: "#000000"
+  },
+  TfBcPqAW: {
+    width: 78,
+    height: 17,
+    lineHeight: 14,
+    fontSize: 11,
+    borderRadius: 0,
+    position: "absolute",
+    top: 354,
+    left: 278
+  },
+  utFUPcDL: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#77CCCD",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 363,
+    left: 240,
+    borderColor: "#BBE6E7",
+    borderWidth: 2
+  },
+  UuSHdykn: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#F32A00",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 376,
+    left: 225,
+    borderColor: "#F79781",
+    borderWidth: 2
+  },
+  fTYxbnrI: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#99439D",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 386,
+    left: 208,
+    borderColor: "#CCA3CF",
+    borderWidth: 2
+  },
+  LiOOkwOG: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#123051",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 393,
+    left: 187,
+    borderColor: "#8BA6C2",
+    borderWidth: 2
+  },
+  EPRJDGMr: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#86BB00",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 395,
+    left: 155,
+    borderColor: "#C4DD81",
+    borderWidth: 2
+  },
+  OreCahQw: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#123051",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 382,
+    left: 121,
+    borderColor: "#8BA6C2",
+    borderWidth: 2
+  },
+  LdljVQmh: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#F5CC3B",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 328,
+    left: 80,
+    borderColor: "#FFEDAE",
+    borderWidth: 2
+  },
+  XVbJPTLq: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#86BB00",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 295,
+    left: 78,
+    borderColor: "#C4DD81",
+    borderWidth: 2
+  },
+  jomCvGvz: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#99439D",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 260,
+    left: 88,
+    borderColor: "#CCA3CF",
+    borderWidth: 2
+  },
+  PSUjnCGz: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#F5CC3B",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 235,
+    left: 103,
+    borderColor: "#FFEDAE",
+    borderWidth: 2
+  },
+  pvTxWjIj: {
+    height: 20,
+    width: 20,
+    backgroundColor: "#77CCCD",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 217,
+    left: 126,
+    borderColor: "#BBE6E7",
+    borderWidth: 2
+  },
+  IqtZjKYK: {
+    width: 78,
+    height: 17,
+    lineHeight: 14,
+    fontSize: 11,
+    borderRadius: 0,
+    position: "absolute",
+    top: 376,
+    left: 263
+  },
+  ZiBxOGoW: {
+    width: 78,
+    height: 17,
+    lineHeight: 14,
+    fontSize: 11,
+    borderRadius: 0,
+    position: "absolute",
+    top: 381,
+    left: 278
   }
 });
 export default Untitled1;
