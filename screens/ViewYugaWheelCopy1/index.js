@@ -10,8 +10,8 @@ const Untitled1 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash 1.png")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground><Switch style={styles.IDwlcLQD} disabled={true}></Switch></View><View style={styles.PLMlilJz}><Text style={styles.bxFKSTmL}>{"Index"}</Text><View style={styles.GafutvhS}></View></View></ScrollView>
-    <View style={styles.SvaKGdqD}></View><View style={styles.SqGlNCYy}></View><View style={styles.mQJdgfAL}></View><View style={styles.DNfiigLI}></View><View style={styles.qMmclCAg}></View><View style={styles.IqKNGUSR}></View><View style={styles.eUtPyign}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text><View style={styles.GlnuOmfS}></View><Text style={styles.mKtiXKOp}>{"Exercise"}</Text><View style={styles.IuvTqtDe}></View><Text style={styles.xuMkFJtl}>{"Entertainment"}</Text><Text style={styles.NSrRnptj}>{"Food"}</Text><Text style={styles.uSAdfyji}>{"Faith/Spirituality"}</Text><Text style={styles.CUkPRbAw}>{"Self Care"}</Text><Text style={styles.rnvHPMXv}>{"Volunteering"}</Text><Text style={styles.SOUjzARb}>{"Sleep"}</Text><View style={styles.BiTsdknl}></View><View style={styles.lkMjiGYg}></View><View style={styles.fwMcckRa}></View><View style={styles.cBvKiRab}></View><View style={styles.gwwVoiXI}></View><View style={styles.KQszAvvk}></View><Text style={styles.lDtAEent}>{"Education"}</Text><View style={styles.DaplXlFj}></View><Text style={styles.rseAOHww}>{"Work"}</Text><View style={styles.NkWkWqnw}></View><Text style={styles.aYMiwWpj}>{"Miscellaneous"}</Text><View style={styles.tzJxLOLZ}></View><Text style={styles.EAzeGhAz}>{"Leisure"}</Text></SafeAreaView>;
+    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash 1.png")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground><Switch style={styles.IDwlcLQD} disabled={true}></Switch></View><View style={styles.PLMlilJz}><Text style={styles.bxFKSTmL}>{"Index"}</Text><View style={styles.GafutvhS}><Text style={styles.oNqNwQta}>{"Search..."}</Text><ImageBackground style={styles.UEkzvnCW} source={require("./filter.png")} resizeMode="cover"></ImageBackground></View><View style={styles.gsVOodWV}></View></View></ScrollView>
+    <View style={styles.SvaKGdqD}></View><View style={styles.SqGlNCYy}></View><View style={styles.mQJdgfAL}></View><View style={styles.DNfiigLI}></View><View style={styles.qMmclCAg}></View><View style={styles.IqKNGUSR}></View><View style={styles.eUtPyign}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text><View style={styles.GlnuOmfS}></View><Text style={styles.mKtiXKOp}>{"Exercise"}</Text><View style={styles.IuvTqtDe}></View><Text style={styles.xuMkFJtl}>{"Entertainment"}</Text><Text style={styles.NSrRnptj}>{"Food"}</Text><Text style={styles.uSAdfyji}>{"Faith/Spirituality"}</Text><Text style={styles.CUkPRbAw}>{"Self Care"}</Text><Text style={styles.rnvHPMXv}>{"Volunteering"}</Text><Text style={styles.SOUjzARb}>{"Sleep"}</Text><View style={styles.BiTsdknl}></View><View style={styles.lkMjiGYg}></View><View style={styles.fwMcckRa}></View><View style={styles.cBvKiRab}></View><View style={styles.gwwVoiXI}></View><View style={styles.KQszAvvk}></View><Text style={styles.lDtAEent}>{"Education"}</Text><View style={styles.DaplXlFj}></View><Text style={styles.rseAOHww}>{"Work"}</Text><View style={styles.NkWkWqnw}></View><Text style={styles.aYMiwWpj}>{"Miscellaneous"}</Text><View style={styles.tzJxLOLZ}></View><Text style={styles.EAzeGhAz}>{"Leisure"}</Text><View style={styles.mxPOAKdA}></View><View style={styles.hGTzqxwd}></View><View style={styles.famcuPzz}></View></SafeAreaView>;
 };
 
 const styles = StyleSheet.create({
@@ -523,7 +523,7 @@ const styles = StyleSheet.create({
     top: 414
   },
   PLMlilJz: {
-    height: 411,
+    height: 606,
     width: 360,
     backgroundColor: "#F6F7F9",
     borderRadius: 20,
@@ -554,6 +554,69 @@ const styles = StyleSheet.create({
     position: "absolute",
     top: 47,
     left: 20
+  },
+  oNqNwQta: {
+    width: 100,
+    height: 18,
+    lineHeight: 14,
+    fontSize: 12,
+    borderRadius: 0,
+    position: "absolute",
+    top: 9,
+    left: 12
+  },
+  UEkzvnCW: {
+    width: 16,
+    height: 16,
+    position: "absolute",
+    left: 291,
+    top: 11
+  },
+  mxPOAKdA: {
+    height: 10,
+    width: 10,
+    backgroundColor: "#123051",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 691,
+    left: 151,
+    borderColor: "#C4DD81",
+    borderWidth: 0
+  },
+  hGTzqxwd: {
+    height: 10,
+    width: 10,
+    backgroundColor: "#F6F7F9",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 691,
+    left: 173,
+    borderColor: "#123051",
+    borderWidth: 1
+  },
+  famcuPzz: {
+    height: 10,
+    width: 10,
+    backgroundColor: "#F6F7F9",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 691,
+    left: 193,
+    borderColor: "#123051",
+    borderWidth: 1
+  },
+  gsVOodWV: {
+    height: 449,
+    width: 340,
+    backgroundColor: "#ffffff",
+    borderRadius: 20,
+    color: "#777777",
+    position: "absolute",
+    left: 10,
+    top: 119
   }
 });
 export default Untitled1;
