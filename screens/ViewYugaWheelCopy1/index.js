@@ -9,8 +9,8 @@ const Untitled1 = () => {
       padding: 10,
       position: 'relative',
       flex: 1
-    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash.jpg")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground></View></ScrollView>
-    <View style={styles.SvaKGdqD}></View><View style={styles.SqGlNCYy}></View><View style={styles.mQJdgfAL}></View><View style={styles.DNfiigLI}></View><View style={styles.qMmclCAg}></View><View style={styles.IqKNGUSR}></View><View style={styles.eUtPyign}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text></SafeAreaView>;
+    }}><View style={styles.EETHqNzV}><Text style={styles.UZhMCeLW}>{"Yuga Wheel"}</Text><ImageBackground style={styles.ECFUhEXc} source={require("./back 1.png")} resizeMode="cover"></ImageBackground></View><View style={styles.aRfhSHYS}><View style={styles.tcZeuqZP}><ImageBackground style={styles.IOGUgKdP} source={require("./michael-dam-mEZ3PoFGs_k-unsplash 1.png")} resizeMode="cover"></ImageBackground></View><Text style={styles.TXwWBpTd}>{"Breakfast"}</Text><Text style={styles.TJoTToLk}>{"Legend"}</Text><Text style={styles.tppPDgTj}>{"Main Wheel Name"}</Text><Text style={styles.wxJPAvyp}>{"Wheel Sub-name"}</Text><ImageBackground style={styles.LfwTPwzL} source={require("./dots.png")} resizeMode="cover"></ImageBackground></View></ScrollView>
+    <View style={styles.SvaKGdqD}></View><View style={styles.SqGlNCYy}></View><View style={styles.mQJdgfAL}></View><View style={styles.DNfiigLI}></View><View style={styles.qMmclCAg}></View><View style={styles.IqKNGUSR}></View><View style={styles.eUtPyign}></View><Text style={styles.dDYIKmeD}>Morning Yoga</Text><Text style={styles.hpetRGxp}>{"Spiritual work"}</Text><Text style={styles.Fvogfrwf}>{"Self Care"}</Text><Text style={styles.cWXOqWvU}>{"Education"}</Text><Text style={styles.oqcNkcuL}>{"Dinner"}</Text><Text style={styles.WqKgjiJg}>{"Sleep"}</Text><View style={styles.GlnuOmfS}></View><Text style={styles.mKtiXKOp}>{"Exercise"}</Text></SafeAreaView>;
 };
 
 const styles = StyleSheet.create({
@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 130,
     color: "#ffffff",
-    top: 22,
+    top: 29,
     textAlign: "center"
   },
   aRfhSHYS: {
@@ -51,11 +51,11 @@ const styles = StyleSheet.create({
     borderColor: "#000000"
   },
   ECFUhEXc: {
-    width: 20,
-    height: 20,
+    width: 16,
+    height: 16,
     position: "absolute",
     left: 18,
-    top: 20
+    top: 31
   },
   tcZeuqZP: {
     height: 200,
@@ -68,11 +68,11 @@ const styles = StyleSheet.create({
     left: 80
   },
   IOGUgKdP: {
-    width: 120,
-    height: 120,
+    width: 160,
+    height: 160,
     position: "absolute",
-    top: 40,
-    left: 40,
+    top: 20,
+    left: 19,
     transform: [{
       rotate: "0deg"
     }]
@@ -205,7 +205,7 @@ const styles = StyleSheet.create({
     width: 100,
     height: 24,
     lineHeight: 14,
-    fontSize: 14,
+    fontSize: 12,
     borderRadius: 0,
     position: "absolute",
     top: 439,
@@ -271,6 +271,28 @@ const styles = StyleSheet.create({
     position: "absolute",
     left: 168,
     top: 19
+  },
+  GlnuOmfS: {
+    height: 10,
+    width: 10,
+    backgroundColor: "#F32A00",
+    borderRadius: 90,
+    color: "#777777",
+    position: "absolute",
+    top: 513,
+    left: 16,
+    borderColor: "#C4DD81",
+    borderWidth: 0
+  },
+  mKtiXKOp: {
+    width: 46,
+    height: 18,
+    lineHeight: 14,
+    fontSize: 12,
+    borderRadius: 0,
+    position: "absolute",
+    top: 510,
+    left: 32
   }
 });
 export default Untitled1;
